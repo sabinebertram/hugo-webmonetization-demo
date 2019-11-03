@@ -1,0 +1,2 @@
+# Webmonetization on Hugo
+

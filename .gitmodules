@@ -1,0 +1,6 @@
+[submodule "themes/hugo-webmonetization-demo"]
+	path = themes/hugo-webmonetization-demo
+	url = git@github.com:sabinebertram/hugo-webmonetization-template.git
+[submodule "webmo-demo/themes/hugo-webmonetization-demo"]
+	path = webmo-demo/themes/hugo-webmonetization-demo
+	url = git@github.com:sabinebertram/hugo-webmonetization-template.git
