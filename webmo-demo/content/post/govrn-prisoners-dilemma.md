@@ -37,7 +37,7 @@ To better illustrate this, I'm going to pull an example from Scott Alexander's "
 
 Everyone hates these rules and wishes they were different but no one is willing to risk not following them on fear of death. These rules could be defied if everyone decided to follow new rules at the same time, but since there is no way to actually coordinate that, no one is able to trust that everyone will cooperate with each other and not kill one another.
 
-![Prisoners Dilemma](prisonersdilemma.png)
+![Prisoners Dilemma](/images/prisonersdilemma.png)
 
 While an extreme example, this is the type of problem that blockchain applications can help us solve. By using coded rules and economic incentives, blockchain apps enable a new type of economy. One where everyone can trust that everyone will do the right thing at the same time, allowing people to cooperate and have a better outcome.
 
@@ -51,7 +51,7 @@ Today it takes a lot of money to run political campaigns ([and the cost is only 
 
 On the other side of the coin, we as constituents have a problem with giving to our politicians today. We're afraid of giving to a politician that says they will do one thing but then doesn't follow through on what they said. We want to give to a politician that gets things done but we have no good way to communicate our conditions of support to the politician. This means that politicians ends up moving to special interests groups that can make these types of promises.
 
-![Govrn Prisoners Dilemma](prisonersdilemmagovrn.png)
+![Govrn Prisoners Dilemma](/images/prisonersdilemmagovrn.png)
 
 
 Both the politicians (who want to spend more time fixing issues and less time fundraising) and the constituents (who want to support good work being done in government) wish there was a better way but have no way to coordinate such, and ultimately neither want to get the short of the stick.
