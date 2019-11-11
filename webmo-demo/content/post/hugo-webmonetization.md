@@ -1,7 +1,7 @@
 ---
 title: "SF DeFi Hackathon: Hugo + Web Monetization"
 author: Sabine Bertram
-date: 2019-11-11T19:08:37-05:00
+date: 2019-11-11T15:08:37-05:00
 image: h+w.png
 draft: false
 ---
@@ -10,7 +10,7 @@ draft: false
 
 I recently made my way back to San Francisco to attend San Francisco Blockchain Week 2019. The final event of this week was the [DeFi hackathon](https://hackathon.sfblockchainweek.io/). But after an amazing week of [Crypto Economics Security Conference](https://cesc.io/), [Macro.WTF](https://macro.wtf/), and [Epicenter Conference](https://sfblockchainweek.io/), not to forget about the numerous meetups and Halloween parties, I was pretty exhausted and not in the mood for a hackathon. I didn't want to commit to a team or a project and I also didn't have an idea myself. So on Friday night, after the opening ceremony, I called it a day and went back to my bed and breakfast for a good night's sleep. 
 
-The first thought that popped into my mind the next morning was "What if could easily web monetize a Hugo static site?" It may seem weird that this is the first thing I would think of but considering the facts that (a) I also visited my friends at [Coil](https://coil.com/) during the week and that (b) I have been trying to convince my fiancé (who I call every morning) to enable web monetization on [his blog](https://papierlos-studieren.net/), this is just putting two and two together. 
+The first thought that popped into my mind the next morning was "What if I could easily web monetize a Hugo static site?" It may seem weird that this is the first thing I would think of but considering the facts that (a) I also visited my friends at [Coil](https://coil.com/) during the week and that (b) I have been trying to convince my fiancé (who I call every morning) to enable web monetization on [his blog](https://papierlos-studieren.net/), this is just putting two and two together. 
 
 ![Web Monetization](/images/webmo.png)
 
