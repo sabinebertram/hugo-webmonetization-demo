@@ -1,9 +1,9 @@
 ---
 title: "SF DeFi Hackathon: Hugo + Web Monetization"
 author: Sabine Bertram
-date: 2019-11-07T19:08:37-05:00
+date: 2019-11-11T19:08:37-05:00
 image: h+w.png
-draft: true
+draft: false
 ---
 
 **by Sabine Bertram, originally posted on [coil.com](https://coil.com/p/sabinebertram/SF-DeFi-Hackathon-Hugo-Web-Monetization/mAownjGgI)**
