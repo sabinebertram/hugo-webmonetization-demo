@@ -4,3 +4,6 @@
 [submodule "webmo-demo/themes/hugo-webmonetization-demo"]
 	path = webmo-demo/themes/hugo-webmonetization-demo
 	url = https://github.com/sabinebertram/hugo-webmonetization-theme.git
+[submodule "webmo-demo/themes/hugo-webmonetization-theme"]
+	path = webmo-demo/themes/hugo-webmonetization-theme
+	url = https://github.com/sabinebertram/hugo-webmonetization-theme

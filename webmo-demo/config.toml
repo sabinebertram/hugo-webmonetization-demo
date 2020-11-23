@@ -1,9 +1,12 @@
 baseURL = "https://hugowebmonetization.netlify.com/"
 languageCode = "en-us"
 title = "Aaron & Sabine"
-theme = "hugo-webmonetization-demo"
+theme = "hugo-webmonetization-theme"
 canonifyURLs = true
 paginate = 10
 
 [params]
   monetization = "$twitter.xrptipbot.com/sabinebertram_"
+
+[markup]
+  defaultMarkdownHandler = "blackfriday"
