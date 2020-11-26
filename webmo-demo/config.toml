@@ -1,4 +1,4 @@
-baseURL = "https://hugowebmonetization.netlify.com/"
+baseURL = "https://hugowebmonetization.netlify.app/"
 languageCode = "en-us"
 title = "Aaron & Sabine"
 theme = "hugo-webmonetization-theme"
